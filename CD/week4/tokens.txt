@@ -1,0 +1,86 @@
+</, 1, 1, Arithmetic Operator>
+<in, 1, 1, Identifier>
+<C, 1, 4, Identifier>
+<void, 3, 1, Keyword>
+<printArray, 3, 6, Identifier>
+<(, 3, 16, LB>
+<{, 3, 18, LC>
+<for, 4, 2, Keyword>
+<(, 4, 6, LB>
+<int, 4, 7, Keyword>
+<i, 4, 11, Identifier>
+<=, 4, 13, Assignment Operator>
+<0, 4, 15, Number>
+<;, 4, 16, SS>
+<i, 4, 18, Identifier>
+<<=, 4, 20, Relational Operator>
+<size, 4, 23, Identifier>
+<;, 4, 27, SS>
+<++, 4, 29, Unary Operator>
+<i, 4, 31, Identifier>
+<), 4, 32, RB>
+<{, 4, 34, LC>
+<printf, 5, 2, Keyword>
+<(, 5, 8, LB>
+<"######## %d ##########", 5, 9, String Literal>
+<,, 5, 31, SS>
+<array, 5, 33, Identifier>
+<[, 5, 38, LS>
+<i, 5, 39, Identifier>
+<], 5, 40, RS>
+<), 5, 41, RB>
+<;, 5, 42, SS>
+<}, 6, 2, RC>
+<printf, 7, 2, Keyword>
+<(, 7, 8, LB>
+<"\n", 7, 9, String Literal>
+<), 7, 11, RB>
+<;, 7, 12, SS>
+<}, 8, 1, RC>
+<int, 10, 1, Keyword>
+<main, 10, 5, Identifier>
+<(, 10, 9, LB>
+<{, 10, 11, LC>
+<int, 11, 2, Keyword>
+<data, 11, 6, Identifier>
+<[, 11, 10, LS>
+<], 11, 11, RS>
+<=, 11, 13, Assignment Operator>
+<{, 11, 15, LC>
+<2, 11, 16, Number>
+<,, 11, 17, SS>
+<45, 11, 19, Number>
+<,, 11, 21, SS>
+<0, 11, 23, Number>
+<,, 11, 24, SS>
+<11, 11, 26, Number>
+<,, 11, 28, SS>
+<9, 11, 30, Number>
+<}, 11, 31, RC>
+<;, 11, 32, SS>
+<int, 14, 3, Keyword>
+<size, 14, 7, Identifier>
+<=, 14, 12, Assignment Operator>
+<sizeof, 14, 14, Keyword>
+<(, 14, 20, LB>
+<data, 14, 21, Identifier>
+<), 14, 25, RB>
+<&&, 14, 27, Logical Operator>
+<!, 14, 30, Logical Operator>
+<sizeof, 14, 31, Keyword>
+<(, 14, 37, LB>
+<data, 14, 38, Identifier>
+<[, 14, 42, LS>
+<0, 14, 43, Number>
+<], 14, 44, RS>
+<), 14, 45, RB>
+<;, 14, 46, SS>
+<printf, 17, 2, Keyword>
+<(, 17, 8, LB>
+<":\n", 17, 9, String Literal>
+<), 17, 12, RB>
+<;, 17, 13, SS>
+<printArray, 18, 2, Identifier>
+<(, 18, 12, LB>
+<;, 18, 13, SS>
+<}, 19, 1, RC>

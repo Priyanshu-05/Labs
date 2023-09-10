@@ -1,0 +1,13 @@
+1 in  id -1 0
+2 printArray void func -1 2
+3 i int id 4 0
+4 size int id 4 0
+5 array int id 0 0
+
+==x==x==x===x==
+1 main int func -1 0
+2 data int id 0 0
+3 size int id 4 0
+4 printArray int func -1 2
+
+==x==x==x===x==
