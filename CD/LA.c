@@ -28,7 +28,7 @@ int main() {
         char buf[100];
         int buflen = 0;
 
-        while (isalpha(ch1)) {
+        while (isalnum(ch1)) {
             buf[buflen++] = ch1;
             ch1 = getc(f1);
         }
@@ -43,7 +43,7 @@ int main() {
         } else {
             int flag = 1;
             for (int i = 0; i < buflen; i++) {
-                if (!isalpha(buf[i])) {
+                if (!isalnum(buf[i])) {
                     flag = 0;
                     break;
                 }
